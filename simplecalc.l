@@ -1,5 +1,5 @@
 %{
-# include "simplecalc.tab.h"
+# include "y.tab.h"
 %}
 %%
 "+"    { return ADD; }
