@@ -1,0 +1,7 @@
+void main()
+{
+	int a , c , b;
+	a = 5 ;
+	b = 3 ;
+	printf("hello world");
+}
